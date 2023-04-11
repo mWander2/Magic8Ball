@@ -1,4 +1,4 @@
-# Magic8Ball 🔮
+# ChatGPT Ball 🔮
 
 Follow the instructions in the .java file to create a Java program to predict a user's future 🔮
 
