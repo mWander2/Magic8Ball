@@ -12,7 +12,7 @@ public class UserOutput {
     }
     public void ask8Ball(){
         System.out.println("What would you like to ask the ChatGPT Ball?");
-        System.out.println("Chat GPT still prefers Yes/No questions...");
+        System.out.println("Chat GPT still prefers Yes/No questions... It's not human after all.");
     }
 
     public void askToContinue(){
